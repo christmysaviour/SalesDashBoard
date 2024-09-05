@@ -29,9 +29,3 @@ Developed a dashboard providing comprehensive insights into superstore sales dat
 
 
 Maximize your retail performance with the Super Store Sales Dashboard! 💼
-
-## Dashboard Screenshots
-
-![Snap 1](https://github.com/user-attachments/assets/6a28b182-a852-4353-8d85-ca0deb432b80)
-
-![Snap 2](https://github.com/user-attachments/assets/2508f16d-912d-48b1-b477-7dd233bb2704)
